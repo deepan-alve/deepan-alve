@@ -61,8 +61,8 @@ Future interests:
   <a href="https://github.com/deepan-alve/deepan-alve/blob/main/STATS.md">
     <img width="390" src="https://github-readme-stats.vercel.app/api?username=deepan-alve&show_icons=true&theme=default&card_width=390" alt="GitHub Stats">
   </a>
-  <a href="https://wakatime.com/@deepan">
-    <img align="top" width="390" src="https://github-readme-stats.vercel.app/api/wakatime?username=deepan&card_width=390&theme=vue&layout=compact&langs_count=10" alt="WakaTime Stats">
+  <a href="https://wakatime.com/@deepanalve">
+    <img align="top" width="390" src="https://github-readme-stats.vercel.app/api/wakatime?username=deepanalve&card_width=390&theme=vue&layout=compact&langs_count=10" alt="WakaTime Stats">
   </a>
 </p>
 
