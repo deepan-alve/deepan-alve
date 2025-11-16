@@ -69,7 +69,7 @@ Future interests:
 ### 📺 Recently Consumed Media
 
 <!-- NOTION:START -->
-<!-- This section will auto-update with your latest watched/read content from Notion -->
+<!-- No recent media found -->
 <!-- NOTION:END -->
 
 ---
