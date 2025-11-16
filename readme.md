@@ -75,64 +75,48 @@ Future interests:
 
 #### 🕒 Recently Added
 
-<div align="center">
-
-<div style="background: linear-gradient(145deg, #1e1e1e, #2d2d2d); border-radius: 15px; padding: 20px; margin: 10px; box-shadow: 8px 8px 16px #0a0a0a, -8px -8px 16px #3a3a3a; max-width: 500px;">
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <span style="font-size: 32px;">🎬</span>
-    <div style="flex: 1;">
-      <div style="color: #8b5cf6; font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 4px;">Movie</div>
-      <div style="color: #e5e5e5; font-size: 18px; font-weight: 600;">Kaantha</div>
-    </div>
-  </div>
-</div>
-
-
-<div style="background: linear-gradient(145deg, #1e1e1e, #2d2d2d); border-radius: 15px; padding: 20px; margin: 10px; box-shadow: 8px 8px 16px #0a0a0a, -8px -8px 16px #3a3a3a; max-width: 500px;">
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <span style="font-size: 32px;">📺</span>
-    <div style="flex: 1;">
-      <div style="color: #ef4444; font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 4px;">Series</div>
-      <div style="color: #e5e5e5; font-size: 18px; font-weight: 600;">Georgie & Mandy's First Marriage </div>
-    </div>
-  </div>
-</div>
-
-
-<div style="background: linear-gradient(145deg, #1e1e1e, #2d2d2d); border-radius: 15px; padding: 20px; margin: 10px; box-shadow: 8px 8px 16px #0a0a0a, -8px -8px 16px #3a3a3a; max-width: 500px;">
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <span style="font-size: 32px;">🎬</span>
-    <div style="flex: 1;">
-      <div style="color: #8b5cf6; font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 4px;">Movie</div>
-      <div style="color: #e5e5e5; font-size: 18px; font-weight: 600;">War Dogs </div>
-    </div>
-  </div>
-</div>
-
-
-<div style="background: linear-gradient(145deg, #1e1e1e, #2d2d2d); border-radius: 15px; padding: 20px; margin: 10px; box-shadow: 8px 8px 16px #0a0a0a, -8px -8px 16px #3a3a3a; max-width: 500px;">
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <span style="font-size: 32px;">🎬</span>
-    <div style="flex: 1;">
-      <div style="color: #8b5cf6; font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 4px;">Movie</div>
-      <div style="color: #e5e5e5; font-size: 18px; font-weight: 600;">Aaromalaey </div>
-    </div>
-  </div>
-</div>
-
-
-<div style="background: linear-gradient(145deg, #1e1e1e, #2d2d2d); border-radius: 15px; padding: 20px; margin: 10px; box-shadow: 8px 8px 16px #0a0a0a, -8px -8px 16px #3a3a3a; max-width: 500px;">
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <span style="font-size: 32px;">🎬</span>
-    <div style="flex: 1;">
-      <div style="color: #8b5cf6; font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 4px;">Movie</div>
-      <div style="color: #e5e5e5; font-size: 18px; font-weight: 600;">500 days of summer </div>
-    </div>
-  </div>
-</div>
-
-
-</div>
+<table>
+<tr>
+    <td align="left">
+      <div style="border-left: 3px solid #8b5cf6; padding-left: 12px;">
+        <div style="color: #8b5cf6; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 2px;">Movie</div>
+        <div style="color: #c9d1d9; font-size: 16px; font-weight: 500;">Kaantha</div>
+      </div>
+    </td>
+  </tr>
+<tr>
+    <td align="left">
+      <div style="border-left: 3px solid #ef4444; padding-left: 12px;">
+        <div style="color: #ef4444; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 2px;">Series</div>
+        <div style="color: #c9d1d9; font-size: 16px; font-weight: 500;">Georgie & Mandy's First Marriage </div>
+      </div>
+    </td>
+  </tr>
+<tr>
+    <td align="left">
+      <div style="border-left: 3px solid #8b5cf6; padding-left: 12px;">
+        <div style="color: #8b5cf6; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 2px;">Movie</div>
+        <div style="color: #c9d1d9; font-size: 16px; font-weight: 500;">War Dogs </div>
+      </div>
+    </td>
+  </tr>
+<tr>
+    <td align="left">
+      <div style="border-left: 3px solid #8b5cf6; padding-left: 12px;">
+        <div style="color: #8b5cf6; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 2px;">Movie</div>
+        <div style="color: #c9d1d9; font-size: 16px; font-weight: 500;">Aaromalaey </div>
+      </div>
+    </td>
+  </tr>
+<tr>
+    <td align="left">
+      <div style="border-left: 3px solid #8b5cf6; padding-left: 12px;">
+        <div style="color: #8b5cf6; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 2px;">Movie</div>
+        <div style="color: #c9d1d9; font-size: 16px; font-weight: 500;">500 days of summer </div>
+      </div>
+    </td>
+  </tr>
+</table>
 <!-- NOTION:END -->
 
 ### 🎵 Spotify Activity
