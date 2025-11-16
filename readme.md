@@ -80,7 +80,7 @@ Future interests:
     <td align="left">
       <div style="border-left: 3px solid #8b5cf6; padding-left: 12px;">
         <div style="color: #8b5cf6; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 2px;">Movie</div>
-        <div style="color: #c9d1d9; font-size: 16px; font-weight: 500;">Arya 2</div>
+        <div style="color: #c9d1d9; font-size: 16px; font-weight: 500;">TED</div>
       </div>
     </td>
   </tr>
@@ -88,7 +88,7 @@ Future interests:
     <td align="left">
       <div style="border-left: 3px solid #8b5cf6; padding-left: 12px;">
         <div style="color: #8b5cf6; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 2px;">Movie</div>
-        <div style="color: #c9d1d9; font-size: 16px; font-weight: 500;">Kabhi Khushi Kabhie Gham</div>
+        <div style="color: #c9d1d9; font-size: 16px; font-weight: 500;">22 Jump Street </div>
       </div>
     </td>
   </tr>
@@ -96,7 +96,7 @@ Future interests:
     <td align="left">
       <div style="border-left: 3px solid #8b5cf6; padding-left: 12px;">
         <div style="color: #8b5cf6; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 2px;">Movie</div>
-        <div style="color: #c9d1d9; font-size: 16px; font-weight: 500;">Rekha Sitram</div>
+        <div style="color: #c9d1d9; font-size: 16px; font-weight: 500;">21 Jump Street</div>
       </div>
     </td>
   </tr>
@@ -104,7 +104,7 @@ Future interests:
     <td align="left">
       <div style="border-left: 3px solid #8b5cf6; padding-left: 12px;">
         <div style="color: #8b5cf6; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 2px;">Movie</div>
-        <div style="color: #c9d1d9; font-size: 16px; font-weight: 500;">Mr. House Keeping</div>
+        <div style="color: #c9d1d9; font-size: 16px; font-weight: 500;">One Battle After Another</div>
       </div>
     </td>
   </tr>
@@ -112,7 +112,7 @@ Future interests:
     <td align="left">
       <div style="border-left: 3px solid #8b5cf6; padding-left: 12px;">
         <div style="color: #8b5cf6; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 2px;">Movie</div>
-        <div style="color: #c9d1d9; font-size: 16px; font-weight: 500;">Superman</div>
+        <div style="color: #c9d1d9; font-size: 16px; font-weight: 500;">Kaantha</div>
       </div>
     </td>
   </tr>

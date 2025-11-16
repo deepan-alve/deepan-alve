@@ -15,7 +15,7 @@ def get_recent_media(notion, database_id):
         # Your data source: f66074b5-15e5-4e50-8f87-7f2346a594e6
         data_source_id = "f66074b5-15e5-4e50-8f87-7f2346a594e6"
         
-        # Query ALL items to get stats (with pagination)
+        # Query ALL items to get stats and track recent items
         stats = {
             "Movie": 0,
             "Series": 0,
@@ -23,6 +23,7 @@ def get_recent_media(notion, database_id):
             "Book": 0
         }
         
+        all_media_items = []
         has_more = True
         next_cursor = None
         
@@ -39,60 +40,50 @@ def get_recent_media(notion, database_id):
             
             for page in all_results.get("results", []):
                 props = page.get("properties", {})
+                
+                # Count by type
                 if "Type" in props and props["Type"]["type"] == "select":
                     if props["Type"]["select"]:
                         media_type = props["Type"]["select"]["name"]
                         if media_type in stats:
                             stats[media_type] += 1
+                
+                # Extract all item data for sorting
+                title = ""
+                if "Title" in props and props["Title"]["type"] == "title":
+                    title_array = props["Title"]["title"]
+                    if title_array:
+                        title = title_array[0]["plain_text"]
+                
+                media_type = ""
+                if "Type" in props and props["Type"]["type"] == "select":
+                    if props["Type"]["select"]:
+                        media_type = props["Type"]["select"]["name"]
+                
+                created_time = page.get("created_time", "")
+                
+                rating = ""
+                if "Rating" in props and props["Rating"]["type"] == "number":
+                    if props["Rating"]["number"] is not None:
+                        rating = f"⭐ {props['Rating']['number']}/10"
+                
+                if title:
+                    all_media_items.append({
+                        "title": title,
+                        "type": media_type,
+                        "date": created_time[:10] if created_time else "",
+                        "rating": rating,
+                        "created_time": created_time
+                    })
             
             has_more = all_results.get("has_more", False)
             next_cursor = all_results.get("next_cursor")
             
         print(f"✅ Found {sum(stats.values())} total items: {stats}")
         
-        # Now query the 5 most recent items (without sorting to avoid timeout)
-        results = notion.data_sources.query(
-            data_source_id=data_source_id,
-            page_size=5
-        )
-        
-        media_items = []
-        
-        for page in results["results"]:
-            props = page["properties"]
-            
-            # Extract title
-            title = ""
-            if "Title" in props and props["Title"]["type"] == "title":
-                title_array = props["Title"]["title"]
-                if title_array:
-                    title = title_array[0]["plain_text"]
-            
-            # Extract type (Movie, Series, Anime, Book)
-            media_type = ""
-            if "Type" in props and props["Type"]["type"] == "select":
-                if props["Type"]["select"]:
-                    media_type = props["Type"]["select"]["name"]
-            
-            # Extract created time
-            created_time = ""
-            if "created_time" in page:
-                # Format: 2025-11-16 or just the date part
-                created_time = page["created_time"][:10]
-            
-            # Extract rating (0-10 scale)
-            rating = ""
-            if "Rating" in props and props["Rating"]["type"] == "number":
-                if props["Rating"]["number"] is not None:
-                    rating = f"⭐ {props['Rating']['number']}/10"
-            
-            if title:
-                media_items.append({
-                    "title": title,
-                    "type": media_type,
-                    "date": created_time,
-                    "rating": rating
-                })
+        # Sort by created_time in Python and take the 5 most recent
+        all_media_items.sort(key=lambda x: x["created_time"], reverse=True)
+        media_items = all_media_items[:5]
         
         return media_items, stats
         
