@@ -50,15 +50,9 @@ def get_recent_media(notion, database_id):
             
         print(f"✅ Found {sum(stats.values())} total items: {stats}")
         
-        # Now query the 5 most recent items
+        # Now query the 5 most recent items (without sorting to avoid timeout)
         results = notion.data_sources.query(
             data_source_id=data_source_id,
-            sorts=[
-                {
-                    "timestamp": "created_time",
-                    "direction": "descending"
-                }
-            ],
             page_size=5
         )
         
