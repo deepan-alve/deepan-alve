@@ -71,7 +71,7 @@ Future interests:
 <!-- NOTION:START -->
 #### 📊 Stats
 
-![Movies](https://img.shields.io/badge/Movies-83-blueviolet?style=flat-square&logo=themoviedatabase) ![Series](https://img.shields.io/badge/Series-7-red?style=flat-square&logo=netflix) ![Anime](https://img.shields.io/badge/Anime-9-green?style=flat-square&logo=crunchyroll) ![Books](https://img.shields.io/badge/Books-1-brown?style=flat-square&logo=bookstack)
+![Movies](https://img.shields.io/badge/Movies-209-blueviolet?style=flat-square&logo=themoviedatabase) ![Series](https://img.shields.io/badge/Series-26-red?style=flat-square&logo=netflix) ![Anime](https://img.shields.io/badge/Anime-21-green?style=flat-square&logo=crunchyroll) ![Books](https://img.shields.io/badge/Books-5-brown?style=flat-square&logo=bookstack)
 
 #### 🕒 Recently Added
 
@@ -86,7 +86,7 @@ Future interests:
 
 **Currently Listening To**
 
-<img src="https://spotify-stats-q7nq.vercel.app/?background_color=ffffff&border_color=e1e4e8" alt="Spotify Now Playing">
+<img src="https://spotify-stats-navy.vercel.app/?background_color=ffffff&border_color=e1e4e8" alt="Spotify Now Playing">
 
 **Top Tracks (Last 4 Weeks)**
 

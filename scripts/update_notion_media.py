@@ -15,12 +15,7 @@ def get_recent_media(notion, database_id):
         # Your data source: f66074b5-15e5-4e50-8f87-7f2346a594e6
         data_source_id = "f66074b5-15e5-4e50-8f87-7f2346a594e6"
         
-        # Query ALL items to get stats
-        all_results = notion.data_sources.query(
-            data_source_id=data_source_id
-        )
-        
-        # Count by type
+        # Query ALL items to get stats (with pagination)
         stats = {
             "Movie": 0,
             "Series": 0,
@@ -28,13 +23,32 @@ def get_recent_media(notion, database_id):
             "Book": 0
         }
         
-        for page in all_results.get("results", []):
-            props = page.get("properties", {})
-            if "Type" in props and props["Type"]["type"] == "select":
-                if props["Type"]["select"]:
-                    media_type = props["Type"]["select"]["name"]
-                    if media_type in stats:
-                        stats[media_type] += 1
+        has_more = True
+        next_cursor = None
+        
+        print("📊 Fetching all items for statistics...")
+        while has_more:
+            query_params = {
+                "data_source_id": data_source_id,
+                "page_size": 100
+            }
+            if next_cursor:
+                query_params["start_cursor"] = next_cursor
+            
+            all_results = notion.data_sources.query(**query_params)
+            
+            for page in all_results.get("results", []):
+                props = page.get("properties", {})
+                if "Type" in props and props["Type"]["type"] == "select":
+                    if props["Type"]["select"]:
+                        media_type = props["Type"]["select"]["name"]
+                        if media_type in stats:
+                            stats[media_type] += 1
+            
+            has_more = all_results.get("has_more", False)
+            next_cursor = all_results.get("next_cursor")
+            
+        print(f"✅ Found {sum(stats.values())} total items: {stats}")
         
         # Now query the 5 most recent items
         results = notion.data_sources.query(
