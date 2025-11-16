@@ -142,15 +142,15 @@ Future interests:
 
 ## Contact
 
-<p align="left">
+<p align="center">
   <a href="https://deepanalve.dev" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Website-deepanalve.dev-blue?style=for-the-badge" alt="Website">
+    <img src="https://img.shields.io/badge/🌐_Website-deepanalve.dev-00D9FF?style=for-the-badge&labelColor=000000" alt="Website">
   </a>
   <a href="mailto:contact@deepanalve.dev">
-    <img src="https://img.shields.io/badge/📧_Email-contact@deepanalve.dev-orange?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/📧_Email-contact@deepanalve.dev-FF6B35?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email">
   </a>
   <a href="https://www.instagram.com/licht.tik" target="_blank">
-    <img src="https://img.shields.io/badge/📸_Instagram-@licht.tik-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/📸_Instagram-@licht.tik-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" alt="Instagram">
   </a>
 </p>
 
