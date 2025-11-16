@@ -69,54 +69,7 @@ Future interests:
 ### Media Stats (2025-2026)
 
 <!-- NOTION:START -->
-
-
-![Movies](https://img.shields.io/badge/Movies-209-blueviolet?style=flat-square&logo=themoviedatabase) ![Series](https://img.shields.io/badge/Series-26-red?style=flat-square&logo=netflix) ![Anime](https://img.shields.io/badge/Anime-21-green?style=flat-square&logo=crunchyroll) ![Books](https://img.shields.io/badge/Books-5-brown?style=flat-square&logo=bookstack)
-
-####  Recently Watches
-
-<table>
-<tr>
-    <td align="left">
-      <div style="border-left: 3px solid #8b5cf6; padding-left: 12px;">
-        <div style="color: #8b5cf6; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 2px;">Movie</div>
-        <div style="color: #c9d1d9; font-size: 16px; font-weight: 500;">Kaantha</div>
-      </div>
-    </td>
-  </tr>
-<tr>
-    <td align="left">
-      <div style="border-left: 3px solid #ef4444; padding-left: 12px;">
-        <div style="color: #ef4444; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 2px;">Series</div>
-        <div style="color: #c9d1d9; font-size: 16px; font-weight: 500;">Georgie & Mandy's First Marriage </div>
-      </div>
-    </td>
-  </tr>
-<tr>
-    <td align="left">
-      <div style="border-left: 3px solid #8b5cf6; padding-left: 12px;">
-        <div style="color: #8b5cf6; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 2px;">Movie</div>
-        <div style="color: #c9d1d9; font-size: 16px; font-weight: 500;">War Dogs </div>
-      </div>
-    </td>
-  </tr>
-<tr>
-    <td align="left">
-      <div style="border-left: 3px solid #8b5cf6; padding-left: 12px;">
-        <div style="color: #8b5cf6; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 2px;">Movie</div>
-        <div style="color: #c9d1d9; font-size: 16px; font-weight: 500;">Aaromalaey </div>
-      </div>
-    </td>
-  </tr>
-<tr>
-    <td align="left">
-      <div style="border-left: 3px solid #8b5cf6; padding-left: 12px;">
-        <div style="color: #8b5cf6; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 2px;">Movie</div>
-        <div style="color: #c9d1d9; font-size: 16px; font-weight: 500;">500 days of summer </div>
-      </div>
-    </td>
-  </tr>
-</table>
+<!-- No recent media found -->
 <!-- NOTION:END -->
 
 ### 🎵 Spotify Activity
