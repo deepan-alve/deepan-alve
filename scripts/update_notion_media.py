@@ -130,7 +130,10 @@ def format_media_list(media_items, stats):
     lines.append("#### 🕒 Recently Added")
     lines.append("")
     
-    # Add recent items - just title with emoji
+    # Create neomorphic cards for recent items
+    lines.append('<div align="center">')
+    lines.append('')
+    
     for item in media_items:
         # Create emoji based on type
         emoji = {
@@ -140,8 +143,29 @@ def format_media_list(media_items, stats):
             "Book": "📚",
         }.get(item["type"], "🎯")
         
-        # Format the line - title only with emoji
-        lines.append(f"- {emoji} **{item['title']}**")
+        # Color scheme based on type
+        colors = {
+            "Movie": "#8b5cf6",
+            "Series": "#ef4444",
+            "Anime": "#10b981",
+            "Book": "#f59e0b"
+        }
+        color = colors.get(item["type"], "#6366f1")
+        
+        # Create neomorphic card
+        lines.append(f'''<div style="background: linear-gradient(145deg, #1e1e1e, #2d2d2d); border-radius: 15px; padding: 20px; margin: 10px; box-shadow: 8px 8px 16px #0a0a0a, -8px -8px 16px #3a3a3a; max-width: 500px;">
+  <div style="display: flex; align-items: center; gap: 12px;">
+    <span style="font-size: 32px;">{emoji}</span>
+    <div style="flex: 1;">
+      <div style="color: {color}; font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 4px;">{item["type"]}</div>
+      <div style="color: #e5e5e5; font-size: 18px; font-weight: 600;">{item["title"]}</div>
+    </div>
+  </div>
+</div>
+''')
+        lines.append('')
+    
+    lines.append('</div>')
     
     return "\n".join(lines)
 
