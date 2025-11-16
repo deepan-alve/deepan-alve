@@ -121,13 +121,20 @@ Future interests:
 
 ### 🎵 Spotify Activity
 
-**Currently Listening To**
-
-<img src="https://spotify-stats-navy.vercel.app/?background_color=0d1117&border_color=30363d" alt="Spotify Now Playing">
-
-**Top Tracks (Last 4 Weeks)**
-
-<img src="https://spotify-stats-navy.vercel.app/top-tracks?background_color=0d1117&border_color=30363d" alt="Top Tracks">
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h4>Currently Listening To</h4>
+        <img src="https://spotify-stats-navy.vercel.app/?background_color=000000&border_color=1DB954" alt="Spotify Now Playing" width="100%">
+      </td>
+      <td width="50%">
+        <h4>Top Tracks (Last 4 Weeks)</h4>
+        <img src="https://spotify-stats-navy.vercel.app/top-tracks?background_color=000000&border_color=1DB954" alt="Top Tracks" width="100%">
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
