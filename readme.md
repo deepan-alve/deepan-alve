@@ -66,14 +66,14 @@ Future interests:
   </a>
 </p>
 
-### 📺 Recently Consumed Media
+### Media Stats (2025-2026)
 
 <!-- NOTION:START -->
-#### 📊 Stats
+
 
 ![Movies](https://img.shields.io/badge/Movies-209-blueviolet?style=flat-square&logo=themoviedatabase) ![Series](https://img.shields.io/badge/Series-26-red?style=flat-square&logo=netflix) ![Anime](https://img.shields.io/badge/Anime-21-green?style=flat-square&logo=crunchyroll) ![Books](https://img.shields.io/badge/Books-5-brown?style=flat-square&logo=bookstack)
 
-#### 🕒 Recently Added
+####  Recently Watches
 
 <table>
 <tr>
@@ -123,11 +123,11 @@ Future interests:
 
 **Currently Listening To**
 
-<img src="https://spotify-stats-navy.vercel.app/?background_color=ffffff&border_color=e1e4e8" alt="Spotify Now Playing">
+<img src="https://spotify-stats-navy.vercel.app/?background_color=0d1117&border_color=30363d" alt="Spotify Now Playing">
 
 **Top Tracks (Last 4 Weeks)**
 
-<img src="https://spotify-stats-navy.vercel.app/top-tracks?background_color=ffffff&border_color=e1e4e8" alt="Top Tracks">
+<img src="https://spotify-stats-navy.vercel.app/top-tracks?background_color=0d1117&border_color=30363d" alt="Top Tracks">
 
 ---
 
