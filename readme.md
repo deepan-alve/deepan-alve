@@ -90,7 +90,7 @@ Future interests:
 
 **Top Tracks (Last 4 Weeks)**
 
-<img src="https://spotify-stats-q7nq.vercel.app/top-tracks?background_color=ffffff&border_color=e1e4e8" alt="Top Tracks">
+<img src="https://spotify-stats-navy.vercel.app/top-tracks?background_color=ffffff&border_color=e1e4e8" alt="Top Tracks">
 
 ---
 
