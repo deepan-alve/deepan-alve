@@ -11,9 +11,13 @@ from datetime import datetime
 def get_recent_media(notion, database_id):
     """Fetch the 5 most recently consumed media from Notion"""
     try:
+        # Use the specific data source ID instead of database ID
+        # Your data source: f66074b5-15e5-4e50-8f87-7f2346a594e6
+        data_source_id = "f66074b5-15e5-4e50-8f87-7f2346a594e6"
+        
         # Query ALL items to get stats
         all_results = notion.databases.query(
-            database_id=database_id
+            database_id=data_source_id
         )
         
         # Count by type
@@ -34,7 +38,7 @@ def get_recent_media(notion, database_id):
         
         # Now query the 5 most recent items
         results = notion.databases.query(
-            database_id=database_id,
+            database_id=data_source_id,
             sorts=[
                 {
                     "timestamp": "created_time",
