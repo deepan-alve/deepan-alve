@@ -69,8 +69,28 @@ Future interests:
 ### 📺 Recently Consumed Media
 
 <!-- NOTION:START -->
-<!-- No recent media found -->
+#### 📊 Stats
+
+![Movies](https://img.shields.io/badge/Movies-83-blueviolet?style=flat-square&logo=themoviedatabase) ![Series](https://img.shields.io/badge/Series-7-red?style=flat-square&logo=netflix) ![Anime](https://img.shields.io/badge/Anime-9-green?style=flat-square&logo=crunchyroll) ![Books](https://img.shields.io/badge/Books-1-brown?style=flat-square&logo=bookstack)
+
+#### 🕒 Recently Added
+
+- 🎬 **Kaantha**
+- 📺 **Georgie & Mandy's First Marriage **
+- 🎬 **War Dogs **
+- 🎬 **Aaromalaey **
+- 🎬 **500 days of summer **
 <!-- NOTION:END -->
+
+### 🎵 Spotify Activity
+
+**Currently Listening To**
+
+<img src="https://spotify-stats-q7nq.vercel.app/?background_color=ffffff&border_color=e1e4e8" alt="Spotify Now Playing">
+
+**Top Tracks (Last 4 Weeks)**
+
+<img src="https://spotify-stats-q7nq.vercel.app/top-tracks?background_color=ffffff&border_color=e1e4e8" alt="Top Tracks">
 
 ---
 
