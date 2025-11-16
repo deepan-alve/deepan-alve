@@ -1,4 +1,4 @@
-# Hi — I'm Deepan 👋
+# Hi ✦ I'm Deepan 👋
 
 <p>
   <img src="https://img.shields.io/github/stars/deepan-alve?color=yellow&label=Stars&affiliations=OWNER" alt="Deepan GitHub User stars">
