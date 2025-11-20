@@ -55,7 +55,7 @@ Future interests:
 ## Quick Links & Stats
 
 <!-- **Profile:** https://github.com/deepan-alve
-- **Detailed stats:** [STATS.md](https://github.com/deepan-alve/deepan-alve/blob/main/STATS.md)  --->
+- **Detailed stats:** [STATS.md](https://github.com/deepan-alve/deepan-alve/blob/main/STATS.md)  
  
 <p>
   <a href="https://github.com/deepan-alve/deepan-alve/blob/main/STATS.md">
@@ -67,7 +67,7 @@ Future interests:
 </p>
 
 ### Media Stats (2025-2026)
-
+--->
 <!-- NOTION:START -->
 #### 📊 Stats
 
