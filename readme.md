@@ -54,9 +54,9 @@ Future interests:
 
 ## Quick Links & Stats
 
-- **Profile:** https://github.com/deepan-alve
-- **Detailed stats:** [STATS.md](https://github.com/deepan-alve/deepan-alve/blob/main/STATS.md)
-
+<--- **Profile:** https://github.com/deepan-alve
+- **Detailed stats:** [STATS.md](https://github.com/deepan-alve/deepan-alve/blob/main/STATS.md)  --->
+ 
 <p>
   <a href="https://github.com/deepan-alve/deepan-alve/blob/main/STATS.md">
     <img width="390" src="https://github-readme-stats.vercel.app/api?username=deepan-alve&show_icons=true&theme=default&card_width=390" alt="GitHub Stats">
