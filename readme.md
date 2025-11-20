@@ -54,7 +54,7 @@ Future interests:
 
 ## Quick Links & Stats
 
-<--- **Profile:** https://github.com/deepan-alve
+<!-- **Profile:** https://github.com/deepan-alve
 - **Detailed stats:** [STATS.md](https://github.com/deepan-alve/deepan-alve/blob/main/STATS.md)  --->
  
 <p>
