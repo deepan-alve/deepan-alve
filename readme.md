@@ -78,9 +78,9 @@ Future interests:
 <table>
 <tr>
     <td align="left">
-      <div style="border-left: 3px solid #8b5cf6; padding-left: 12px;">
-        <div style="color: #8b5cf6; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 2px;">Movie</div>
-        <div style="color: #c9d1d9; font-size: 16px; font-weight: 500;">TED</div>
+      <div style="border-left: 3px solid #ef4444; padding-left: 12px;">
+        <div style="color: #ef4444; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 2px;">Series</div>
+        <div style="color: #c9d1d9; font-size: 16px; font-weight: 500;">Devil May Cry (1)</div>
       </div>
     </td>
   </tr>
@@ -88,7 +88,7 @@ Future interests:
     <td align="left">
       <div style="border-left: 3px solid #8b5cf6; padding-left: 12px;">
         <div style="color: #8b5cf6; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 2px;">Movie</div>
-        <div style="color: #c9d1d9; font-size: 16px; font-weight: 500;">22 Jump Street </div>
+        <div style="color: #c9d1d9; font-size: 16px; font-weight: 500;">Madha Gadha Raja (1)</div>
       </div>
     </td>
   </tr>
@@ -96,7 +96,7 @@ Future interests:
     <td align="left">
       <div style="border-left: 3px solid #8b5cf6; padding-left: 12px;">
         <div style="color: #8b5cf6; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 2px;">Movie</div>
-        <div style="color: #c9d1d9; font-size: 16px; font-weight: 500;">21 Jump Street</div>
+        <div style="color: #c9d1d9; font-size: 16px; font-weight: 500;">Bun Butter Jam (1)</div>
       </div>
     </td>
   </tr>
@@ -104,7 +104,7 @@ Future interests:
     <td align="left">
       <div style="border-left: 3px solid #8b5cf6; padding-left: 12px;">
         <div style="color: #8b5cf6; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 2px;">Movie</div>
-        <div style="color: #c9d1d9; font-size: 16px; font-weight: 500;">One Battle After Another</div>
+        <div style="color: #c9d1d9; font-size: 16px; font-weight: 500;">Nobody (1)</div>
       </div>
     </td>
   </tr>
@@ -112,7 +112,7 @@ Future interests:
     <td align="left">
       <div style="border-left: 3px solid #8b5cf6; padding-left: 12px;">
         <div style="color: #8b5cf6; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 2px;">Movie</div>
-        <div style="color: #c9d1d9; font-size: 16px; font-weight: 500;">Kaantha</div>
+        <div style="color: #c9d1d9; font-size: 16px; font-weight: 500;">Godfather (1)</div>
       </div>
     </td>
   </tr>
