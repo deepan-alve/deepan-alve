@@ -69,7 +69,7 @@ Future interests:
 ### Media Stats (2025-2026)
 --->
 <!-- NOTION:START -->
-<!--#### 📊 Stats
+#### 📊 Stats
 
 ![Movies](https://img.shields.io/badge/Movies-213-blueviolet?style=flat-square&logo=themoviedatabase) ![Series](https://img.shields.io/badge/Series-26-red?style=flat-square&logo=netflix) ![Anime](https://img.shields.io/badge/Anime-21-green?style=flat-square&logo=crunchyroll) ![Books](https://img.shields.io/badge/Books-5-brown?style=flat-square&logo=bookstack)
 
