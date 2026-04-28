@@ -1,13 +1,3 @@
-<h1 align="center">Deepan R</h1>
-
-<p align="center">
-  Full-Stack Engineer · Backend Systems · AI Agents · Security
-</p>
-
-<p align="center">
-  Building production software across backend systems, Flutter, AI agents, and security-focused research.
-</p>
-
 <p align="center">
   <img src="./assets/terminal-hero.svg" width="100%" alt="Deepan terminal hero">
 </p>
