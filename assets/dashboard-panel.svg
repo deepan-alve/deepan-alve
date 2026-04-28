@@ -1,29 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1360" height="1160" viewBox="0 0 1360 1160" role="img" aria-label="Deepan terminal dashboard">
-  <rect width="1360" height="1160" rx="18" fill="#262626"/>
-  <g font-family="SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="30" font-weight="600" fill="#d1d5db">
-    <text x="36" y="62">deepan@workspace  ----------------------------------------</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1360" height="1360" viewBox="0 0 1360 1360" role="img" aria-label="Deepan terminal dashboard">
+  <rect width="1360" height="1360" rx="18" fill="#262626"/>
+  <g font-family="SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="26" font-weight="600" fill="#d1d5db">
+    <text x="32" y="58">deepan@workspace -------------------------------------------------</text>
+    <text x="32" y="114">. OS........................ Organic Substrate (Dependencies resolved by Claude Code)</text>
+    <text x="32" y="162">. Uptime.................... 19 years, 8 months, 25 days, 18 hours</text>
+    <text x="32" y="210">. Host...................... Shiv Nadar University Chennai</text>
+    <text x="32" y="258">. Role...................... Full-Stack Engineer</text>
+    <text x="32" y="306">. Focus..................... Backend Systems, AI Agents &amp; Orchestration, Security</text>
+    <text x="32" y="354">.</text>
 
-    <text x="36" y="126">. OS.................... Organic Substrate</text>
-    <text x="36" y="178">. Host.................. Shiv Nadar University Chennai</text>
-    <text x="36" y="230">. Role.................. Full-Stack Engineer</text>
-    <text x="36" y="282">. Focus................. Backend Systems, AI Agents, Security</text>
+    <text x="32" y="420">- stack_architecture ---------------------------------------------</text>
+    <text x="32" y="468">. Languages................. Java, Dart, TypeScript, Python</text>
+    <text x="32" y="516">. Frontend.................. React, Next.js, TailwindCSS</text>
+    <text x="32" y="564">. Mobile.................... Flutter, React Native</text>
+    <text x="32" y="612">. Backend................... Node.js, PostgreSQL, Redis</text>
+    <text x="32" y="660">. Cloud &amp; Infra............. AWS, Azure, Docker, Kubernetes</text>
+    <text x="32" y="708">.</text>
 
-    <text x="36" y="366">- stack ---------------------------------------------------</text>
-    <text x="36" y="422">. Languages............. TypeScript, Python, Java, Dart</text>
-    <text x="36" y="474">. Frontend.............. React, Next.js</text>
-    <text x="36" y="526">. Mobile................ Flutter</text>
-    <text x="36" y="578">. Backend............... Node.js, PostgreSQL, Redis</text>
-    <text x="36" y="630">. Infra................. Docker, Azure, GitHub Actions</text>
+    <text x="32" y="774">- current_operations ---------------------------------------------</text>
+    <text x="32" y="822">. Research.................. Federated Learning Defense, Semantic Poisoning</text>
+    <text x="32" y="870">. AI........................ Agent development and orchestration</text>
+    <text x="32" y="918">. Product................... Production grade backend systems</text>
+    <text x="32" y="966">. Style..................... Security-first mindset, AI-native workflows, cinephile</text>
+    <text x="32" y="1014">.</text>
 
-    <text x="36" y="714">- current -------------------------------------------------</text>
-    <text x="36" y="770">. Research.............. Federated Learning Defense</text>
-    <text x="36" y="822">. AI.................... Agent Development, Orchestration</text>
-    <text x="36" y="874">. Building.............. Production backend and Flutter systems</text>
-    <text x="36" y="926">. Style................. Security-first, AI-native, system-minded</text>
-
-    <text x="36" y="1010">- contact -------------------------------------------------</text>
-    <text x="36" y="1066">. Website............... deepanalve.dev</text>
-    <text x="36" y="1118">. Email................. contact@deepanalve.dev</text>
+    <text x="32" y="1080">- contact_protocols ----------------------------------------------</text>
+    <text x="32" y="1128">. Website................... https://deepanalve.dev</text>
+    <text x="32" y="1176">. Email..................... contact@deepanalve.dev</text>
+    <text x="32" y="1224">. LinkedIn.................. https://www.linkedin.com/in/deepanalve/</text>
+    <text x="32" y="1272">. GitHub.................... https://github.com/deepan-alve</text>
   </g>
 </svg>
