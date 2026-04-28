@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1380" height="1260" viewBox="0 0 1380 1260" role="img" aria-label="Deepan terminal dashboard">
+  <rect width="1380" height="1260" rx="18" fill="#262626"/>
+  <g font-family="SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="30" font-weight="600">
+    <text x="28" y="58" fill="#d1d5db">deepan@workspace ---------------------------------------------</text>
+
+    <text x="28" y="118" fill="#d1d5db">. OS...................... Organic Substrate (resolved by Claude Code)</text>
+    <text x="28" y="172" fill="#d1d5db">. Uptime.................. 19 years, 8 months, 25 days, 18 hours</text>
+    <text x="28" y="226" fill="#d1d5db">. Host.................... Shiv Nadar University Chennai</text>
+    <text x="28" y="280" fill="#d1d5db">. Role.................... Full-Stack Engineer</text>
+    <text x="28" y="334" fill="#d1d5db">. Focus................... Backend Systems, AI Agents &amp; Orchestration,</text>
+    <text x="28" y="382" fill="#d1d5db">.......................... Security</text>
+    <text x="28" y="446" fill="#d1d5db">- stack_architecture -----------------------------------------</text>
+    <text x="28" y="502" fill="#d1d5db">. Languages............... Java, Dart, TypeScript, Python</text>
+    <text x="28" y="556" fill="#d1d5db">. Frontend................ React, Next.js, TailwindCSS</text>
+    <text x="28" y="610" fill="#d1d5db">. Mobile.................. Flutter, React Native</text>
+    <text x="28" y="664" fill="#d1d5db">. Backend................. Node.js, PostgreSQL, Redis</text>
+    <text x="28" y="718" fill="#d1d5db">. Cloud &amp; Infra............ AWS, Azure, Docker, Kubernetes</text>
+
+    <text x="28" y="792" fill="#d1d5db">- current_operations -----------------------------------------</text>
+    <text x="28" y="848" fill="#d1d5db">. Research................ Federated Learning Defense, Semantic Poisoning</text>
+    <text x="28" y="902" fill="#d1d5db">. AI...................... Agent development and orchestration</text>
+    <text x="28" y="956" fill="#d1d5db">. Product................. Production grade backend systems</text>
+    <text x="28" y="1010" fill="#d1d5db">. Style................... Security-first mindset, AI-native workflows,</text>
+    <text x="28" y="1058" fill="#d1d5db">.......................... cinephile</text>
+
+    <text x="28" y="1122" fill="#d1d5db">- contact_protocols ------------------------------------------</text>
+    <text x="28" y="1178" fill="#d1d5db">. Website................. https://deepanalve.dev</text>
+    <text x="28" y="1232" fill="#d1d5db">. Email................... contact@deepanalve.dev</text>
+  </g>
+</svg>
