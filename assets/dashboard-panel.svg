@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1380" height="1260" viewBox="0 0 1380 1260" role="img" aria-label="Deepan terminal dashboard">
   <rect width="1380" height="1260" rx="18" fill="#262626"/>
-  <g font-family="SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="32" font-weight="600">
+  <g font-family="SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="30" font-weight="600">
     <text x="28" y="58" fill="#d1d5db">deepan@workspace ---------------------------------------------</text>
 
     <text x="28" y="118" fill="#d1d5db">. OS...................... Organic Substrate (resolved by Claude Code)</text>
