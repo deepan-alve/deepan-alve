@@ -5,19 +5,27 @@
 </p>
 
 <p align="center">
-  Building production software across backend systems, Flutter, AI agents, and security-focused research.
+  <img src="https://img.shields.io/badge/PROFILE-4b5563?style=flat-square" alt="Profile tab">
+  <img src="https://img.shields.io/badge/DASHBOARD-1f2937?style=flat-square" alt="Dashboard tab">
 </p>
 
 <table>
   <tr>
-    <td valign="top" width="44%" bgcolor="#262626">
+    <td valign="top" width="42%" bgcolor="#262626">
       <img src="./assets/ascii-art.svg" width="100%" alt="Deepan ASCII portrait">
     </td>
-    <td valign="top" width="56%" bgcolor="#262626">
+    <td valign="top" width="58%" bgcolor="#262626">
       <img src="./assets/dashboard-panel.svg" width="100%" alt="Deepan dashboard panel">
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%20Agents%20%26%20Orchestration-0f172a?style=flat-square" alt="Focus badge">
+  <img src="https://img.shields.io/badge/Research-Federated%20Learning%20Defense-1f2937?style=flat-square" alt="Research badge">
+  <img src="https://img.shields.io/badge/Shipping-Flutter%20%26%20Backend%20Systems-334155?style=flat-square" alt="Shipping badge">
+  <img src="https://img.shields.io/badge/Base-Cybersecurity-475569?style=flat-square" alt="Cybersecurity badge">
+</p>
 
 ## About
 
