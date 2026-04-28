@@ -8,16 +8,9 @@
   Building production software across backend systems, Flutter, AI agents, and security-focused research.
 </p>
 
-<table>
-  <tr>
-    <td valign="top" width="44%" bgcolor="#262626">
-      <img src="./assets/ascii-art.svg" width="100%" alt="Deepan ASCII portrait">
-    </td>
-    <td valign="top" width="56%" bgcolor="#262626">
-      <img src="./assets/dashboard-panel.svg" width="100%" alt="Deepan dashboard panel">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/terminal-hero.svg" width="100%" alt="Deepan terminal hero">
+</p>
 
 ## About
 
