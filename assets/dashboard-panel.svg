@@ -1,31 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1220" viewBox="0 0 1600 1220" role="img" aria-label="Deepan terminal dashboard">
-  <rect width="1600" height="1220" rx="18" fill="#262626"/>
-  <g font-family="SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="26" font-weight="600">
-    <text x="34" y="54" fill="#d1d5db">deepan@workspace -------------------------------------------------</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1480" height="1160" viewBox="0 0 1480 1160" role="img" aria-label="Deepan terminal dashboard">
+  <rect width="1480" height="1160" rx="18" fill="#262626"/>
+  <g font-family="SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="31" font-weight="600">
+    <text x="34" y="58" fill="#d1d5db">deepan@workspace -------------------------------------------</text>
 
-    <text x="34" y="112" fill="#d1d5db">. OS........................ Organic Substrate (Dependencies resolved by Claude Code)</text>
-    <text x="34" y="164" fill="#d1d5db">. Uptime.................... 19 years, 8 months, 25 days, 18 hours</text>
-    <text x="34" y="216" fill="#d1d5db">. Host...................... Shiv Nadar University Chennai</text>
-    <text x="34" y="268" fill="#d1d5db">. Role...................... Full-Stack Engineer</text>
-    <text x="34" y="320" fill="#d1d5db">. Focus..................... Backend Systems, AI Agents &amp; Orchestration, Security</text>
+    <text x="34" y="126" fill="#d1d5db">. OS........................ Organic Substrate (Dependencies resolved by Claude Code)</text>
+    <text x="34" y="182" fill="#d1d5db">. Uptime.................... 19 years, 8 months, 25 days, 18 hours</text>
+    <text x="34" y="238" fill="#d1d5db">. Host...................... Shiv Nadar University Chennai</text>
+    <text x="34" y="294" fill="#d1d5db">. Role...................... Full-Stack Engineer</text>
+    <text x="34" y="350" fill="#d1d5db">. Focus..................... Backend Systems, AI Agents &amp; Orchestration, Security</text>
 
-    <text x="34" y="392" fill="#d1d5db">- stack_architecture ---------------------------------------------</text>
-    <text x="34" y="446" fill="#d1d5db">. Languages................. Java, Dart, TypeScript, Python</text>
-    <text x="34" y="498" fill="#d1d5db">. Frontend.................. React, Next.js, TailwindCSS</text>
-    <text x="34" y="550" fill="#d1d5db">. Mobile.................... Flutter</text>
-    <text x="34" y="602" fill="#d1d5db">. Backend................... Node.js, PostgreSQL, Redis</text>
-    <text x="34" y="654" fill="#d1d5db">. Cloud &amp; Infra............. Azure, Docker, Supabase, GitHub Actions</text>
+    <text x="34" y="428" fill="#d1d5db">- stack_architecture --------------------------------------</text>
+    <text x="34" y="486" fill="#d1d5db">. Languages................. Java, Dart, TypeScript, Python</text>
+    <text x="34" y="542" fill="#d1d5db">. Frontend.................. React, Next.js, TailwindCSS</text>
+    <text x="34" y="598" fill="#d1d5db">. Mobile.................... Flutter</text>
+    <text x="34" y="654" fill="#d1d5db">. Backend................... Node.js, PostgreSQL, Redis</text>
+    <text x="34" y="710" fill="#d1d5db">. Cloud &amp; Infra............. Azure, Docker, Supabase, GitHub Actions</text>
 
-    <text x="34" y="726" fill="#d1d5db">- current_operations ---------------------------------------------</text>
-    <text x="34" y="780" fill="#d1d5db">. Research.................. Federated Learning Defense, Semantic Poisoning</text>
-    <text x="34" y="832" fill="#d1d5db">. AI........................ Agent development and orchestration</text>
-    <text x="34" y="884" fill="#d1d5db">. Product................... Production grade backend systems</text>
-    <text x="34" y="936" fill="#d1d5db">. Style..................... Security-first mindset, AI-native workflows, cinephile</text>
+    <text x="34" y="788" fill="#d1d5db">- current_operations --------------------------------------</text>
+    <text x="34" y="846" fill="#d1d5db">. Research.................. Federated Learning Defense, Semantic Poisoning</text>
+    <text x="34" y="902" fill="#d1d5db">. AI........................ Agent development and orchestration</text>
+    <text x="34" y="958" fill="#d1d5db">. Product................... Production grade backend systems</text>
 
-    <text x="34" y="1008" fill="#d1d5db">- contact_protocols ----------------------------------------------</text>
-    <text x="34" y="1062" fill="#d1d5db">. Website................... https://deepanalve.dev</text>
-    <text x="34" y="1114" fill="#d1d5db">. Email..................... contact@deepanalve.dev</text>
-    <text x="34" y="1166" fill="#d1d5db">. LinkedIn.................. https://www.linkedin.com/in/deepanalve/</text>
+    <text x="34" y="1036" fill="#d1d5db">- contact_protocols ---------------------------------------</text>
+    <text x="34" y="1094" fill="#d1d5db">. Website................... https://deepanalve.dev</text>
+    <text x="34" y="1150" fill="#d1d5db">. Email..................... contact@deepanalve.dev</text>
   </g>
 </svg>
