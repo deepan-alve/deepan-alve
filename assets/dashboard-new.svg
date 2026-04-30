@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1360" height="1420" viewBox="0 0 1360 1420" role="img" aria-label="Deepan terminal dashboard">
+  <rect width="1360" height="1420" rx="18" fill="#262626"/>
+  <g font-family="SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="26" font-weight="600">
+
+    <text xml:space="preserve" x="32" y="60" fill="#7EE787">deepan@workspace -------------------------------------------------</text>
+
+    <text xml:space="preserve" x="32" y="120" fill="#d1d5db"><tspan fill="#79C0FF">. OS</tspan><tspan fill="#586069">........................ </tspan>Organic Substrate (Dependencies resolved by Claude Code)</text>
+    <text xml:space="preserve" x="32" y="180" fill="#d1d5db"><tspan fill="#79C0FF">. Uptime</tspan><tspan fill="#586069">.................... </tspan>19 years, 8 months, 25 days, 18 hours</text>
+    <text xml:space="preserve" x="32" y="240" fill="#d1d5db"><tspan fill="#79C0FF">. Host</tspan><tspan fill="#586069">...................... </tspan>Shiv Nadar University Chennai</text>
+    <text xml:space="preserve" x="32" y="300" fill="#d1d5db"><tspan fill="#79C0FF">. Role</tspan><tspan fill="#586069">...................... </tspan>Full-Stack Engineer</text>
+    <text xml:space="preserve" x="32" y="360" fill="#d1d5db"><tspan fill="#79C0FF">. Focus</tspan><tspan fill="#586069">..................... </tspan>Backend Systems, AI Agents &amp; Orchestration, Security</text>
+
+    <text xml:space="preserve" x="32" y="440" fill="#E5C07B">- stack_architecture ---------------------------------------------</text>
+
+    <text xml:space="preserve" x="32" y="500" fill="#d1d5db"><tspan fill="#79C0FF">. Languages</tspan><tspan fill="#586069">................. </tspan>Java, Dart, TypeScript, Python</text>
+    <text xml:space="preserve" x="32" y="560" fill="#d1d5db"><tspan fill="#79C0FF">. Frontend</tspan><tspan fill="#586069">.................. </tspan>React, Next.js, TailwindCSS</text>
+    <text xml:space="preserve" x="32" y="620" fill="#d1d5db"><tspan fill="#79C0FF">. Mobile</tspan><tspan fill="#586069">.................... </tspan>Flutter, React Native</text>
+    <text xml:space="preserve" x="32" y="680" fill="#d1d5db"><tspan fill="#79C0FF">. Backend</tspan><tspan fill="#586069">................... </tspan>Node.js, PostgreSQL, Redis</text>
+    <text xml:space="preserve" x="32" y="740" fill="#d1d5db"><tspan fill="#79C0FF">. Cloud &amp; Infra</tspan><tspan fill="#586069">............. </tspan>AWS, Azure, Docker, Kubernetes</text>
+
+    <text xml:space="preserve" x="32" y="820" fill="#E5C07B">- current_operations ---------------------------------------------</text>
+
+    <text xml:space="preserve" x="32" y="880" fill="#d1d5db"><tspan fill="#79C0FF">. Research</tspan><tspan fill="#586069">.................. </tspan>Federated Learning Defense, Semantic Poisoning</text>
+    <text xml:space="preserve" x="32" y="940" fill="#d1d5db"><tspan fill="#79C0FF">. AI</tspan><tspan fill="#586069">........................ </tspan>Agent development and orchestration</text>
+    <text xml:space="preserve" x="32" y="1000" fill="#d1d5db"><tspan fill="#79C0FF">. Product</tspan><tspan fill="#586069">................... </tspan>Production grade backend systems</text>
+    <text xml:space="preserve" x="32" y="1060" fill="#d1d5db"><tspan fill="#79C0FF">. Style</tspan><tspan fill="#586069">..................... </tspan>Security-first mindset, AI-native workflows, cinephile</text>
+
+    <text xml:space="preserve" x="32" y="1140" fill="#E5C07B">- contact_protocols ----------------------------------------------</text>
+
+    <text xml:space="preserve" x="32" y="1200" fill="#d1d5db"><tspan fill="#79C0FF">. Website</tspan><tspan fill="#586069">................... </tspan>https://deepanalve.dev</text>
+    <text xml:space="preserve" x="32" y="1260" fill="#d1d5db"><tspan fill="#79C0FF">. Email</tspan><tspan fill="#586069">..................... </tspan>contact@deepanalve.dev</text>
+    <text xml:space="preserve" x="32" y="1320" fill="#d1d5db"><tspan fill="#79C0FF">. LinkedIn</tspan><tspan fill="#586069">.................. </tspan>https://linkedin.com/in/deepanalve/</text>
+    <text xml:space="preserve" x="32" y="1380" fill="#d1d5db"><tspan fill="#79C0FF">. GitHub</tspan><tspan fill="#586069">.................... </tspan>https://github.com/deepan-alve</text>
+  </g>
+</svg>
