@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1RuggKG7rkz36ehU4T1oSUo_wCLvpbTg2/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+  <a href="https://drive.google.com/uc?export=download&id=1RuggKG7rkz36ehU4T1oSUo_wCLvpbTg2" target="_blank" rel="noopener noreferrer">
     <img src="./assets/resume.svg" width="100%" alt="Download resume">
   </a>
 </p>
