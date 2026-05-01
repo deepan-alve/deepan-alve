@@ -2,13 +2,13 @@
   <img src="./assets/terminal-hero.svg" width="100%" alt="Deepan terminal hero">
 </p>
 
-<font size="5"><strong><code>~$ whoami</code></strong></font>
+<font size="6"><strong><code>~$ whoami</code></strong></font>
 
 Engineer building production software across **web**, **mobile**, **backend infrastructure**, and **applied AI**. Current focus: agent development, orchestration workflows, and federated learning defense research — with a strong bias toward systems that stay useful long after the prototype stage.
 
 I like owning systems end-to-end: architecture, auth, access control, deployment, reliability, and the engineering decisions that make software hold up under real constraints.
 
-<font size="5"><strong><code>~$ cat accolades.log</code></strong></font>
+<font size="6"><strong><code>~$ cat accolades.log</code></strong></font>
 
 | | |
 |:---:|:---|
