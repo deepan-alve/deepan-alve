@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1600 280" role="img" aria-label="download resume">
+  <rect width="1600" height="280" rx="14" fill="#1f1f1f" stroke="#2d2d2d" stroke-width="1"/>
+
+  <g font-family="SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace">
+    <g font-size="32" font-weight="600">
+      <text x="36" y="68" fill="#79C0FF">~</text>
+      <text x="56" y="68" fill="#d1d5db">$</text>
+      <text x="88" y="68" fill="#E5C07B">curl</text>
+      <text x="172" y="68" fill="#7EE787">-O</text>
+      <text x="222" y="68" fill="#d1d5db">resume.pdf</text>
+    </g>
+    <text x="1568" y="64" font-size="22" fill="#586069" text-anchor="end">— zsh</text>
+
+    <!-- Progress bar -->
+    <g font-size="22" font-family="SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace">
+      <text x="36" y="124" fill="#586069">[</text>
+      <text x="50" y="124" fill="#7EE787" letter-spacing="-2">████████████████████████████████████████████████████████████████████████</text>
+      <text x="1136" y="124" fill="#586069">]</text>
+      <text x="1170" y="124" fill="#7EE787" font-weight="700">100%</text>
+      <text x="1278" y="124" fill="#586069">·</text>
+      <text x="1300" y="124" fill="#8b949e">142 KB</text>
+      <text x="1430" y="124" fill="#586069">·</text>
+      <text x="1452" y="124" fill="#8b949e">2 pages</text>
+    </g>
+
+    <!-- Status -->
+    <g font-size="26">
+      <text x="36" y="184" fill="#7EE787" font-weight="600">✓</text>
+      <text x="68" y="184" fill="#d1d5db">saved</text>
+      <text x="160" y="184" fill="#586069">→</text>
+      <text x="200" y="184" fill="#79C0FF" font-weight="600" text-decoration="underline">resume.pdf</text>
+    </g>
+
+    <!-- Click hint -->
+    <g font-size="22" fill="#586069">
+      <text x="36" y="240">↑ click anywhere on this card to download · last updated 2025</text>
+    </g>
+  </g>
+</svg>

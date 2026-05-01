@@ -1,54 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="360" viewBox="0 0 800 360" fill="none">
-  <!-- Background -->
-  <rect width="800" height="360" rx="24" fill="#0A0A0B"/>
-  
-  <defs>
-    <filter id="neon_glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="3" result="blur" />
-      <feComposite in="SourceGraphic" in2="blur" operator="over" />
-    </filter>
-    
-    <linearGradient id="hex_grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#00D1FF;stop-opacity:0.2" />
-      <stop offset="100%" style="stop-color:#00D1FF;stop-opacity:0.05" />
-    </linearGradient>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1600 480" role="img" aria-label="accolades">
+  <rect width="1600" height="480" rx="14" fill="#1f1f1f" stroke="#2d2d2d" stroke-width="1"/>
 
-  <!-- Hexagon Path Helper (Side: 70) -->
-  <g transform="translate(180, 80)">
-    <!-- Hex 1: CTF -->
-    <path d="M70 0 L130.6 35 L130.6 105 L70 140 L9.4 105 L9.4 35 Z" fill="url(#hex_grad)" stroke="#00D1FF" stroke-width="2" filter="url(#neon_glow)"/>
-    <text x="70" y="65" text-anchor="middle" fill="#00D1FF" font-family="monospace" font-size="24" font-weight="bold">🚩</text>
-    <text x="70" y="95" text-anchor="middle" fill="#F0F6FC" font-family="sans-serif" font-size="14" font-weight="bold">CTF</text>
-    <text x="70" y="112" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="10">WINNER</text>
-  </g>
+  <g font-family="SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace">
+    <g font-size="32" font-weight="600">
+      <text x="36" y="68" fill="#79C0FF">~</text>
+      <text x="56" y="68" fill="#d1d5db">$</text>
+      <text x="88" y="68" fill="#E5C07B">cat</text>
+      <text x="148" y="68" fill="#d1d5db">accolades.log</text>
+    </g>
+    <text x="1568" y="64" font-size="22" fill="#586069" text-anchor="end">— zsh</text>
 
-  <g transform="translate(310, 155)">
-    <!-- Hex 2: HTB -->
-    <path d="M70 0 L130.6 35 L130.6 105 L70 140 L9.4 105 L9.4 35 Z" fill="url(#hex_grad)" stroke="#00D1FF" stroke-width="2" filter="url(#neon_glow)"/>
-    <text x="70" y="65" text-anchor="middle" fill="#00D1FF" font-family="monospace" font-size="24" font-weight="bold">🛡️</text>
-    <text x="70" y="95" text-anchor="middle" fill="#F0F6FC" font-family="sans-serif" font-size="14" font-weight="bold">HTB</text>
-    <text x="70" y="112" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="10">TOP 750</text>
-  </g>
+    <g font-size="26">
+      <!-- Entry 1 -->
+      <rect x="36" y="128" width="4" height="28" fill="#FFB454"/>
+      <text x="60" y="150" fill="#FFB454" font-weight="700">[01]</text>
+      <text x="140" y="150" fill="#E5C07B" font-weight="600">CTF Edita</text>
+      <text x="304" y="150" fill="#586069">—</text>
+      <text x="328" y="150" fill="#d1d5db" font-weight="600">Winner.</text>
+      <text x="448" y="150" fill="#8b949e">Excellence in cybersecurity defense and offensive operations.</text>
 
-  <g transform="translate(310, 5)">
-    <!-- Hex 3: ICPC -->
-    <path d="M70 0 L130.6 35 L130.6 105 L70 140 L9.4 105 L9.4 35 Z" fill="url(#hex_grad)" stroke="#00D1FF" stroke-width="2" filter="url(#neon_glow)"/>
-    <text x="70" y="65" text-anchor="middle" fill="#00D1FF" font-family="monospace" font-size="24" font-weight="bold">💻</text>
-    <text x="70" y="95" text-anchor="middle" fill="#F0F6FC" font-family="sans-serif" font-size="14" font-weight="bold">ICPC</text>
-    <text x="70" y="112" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="10">REGIONAL</text>
-  </g>
+      <!-- Entry 2 -->
+      <rect x="36" y="208" width="4" height="28" fill="#9EDF7F"/>
+      <text x="60" y="230" fill="#9EDF7F" font-weight="700">[02]</text>
+      <text x="140" y="230" fill="#E5C07B" font-weight="600">Hack The Box</text>
+      <text x="356" y="230" fill="#586069">—</text>
+      <text x="380" y="230" fill="#d1d5db" font-weight="600">Global Top 750.</text>
+      <text x="616" y="230" fill="#8b949e">Among the elite globally in penetration testing and adversarial research.</text>
 
-  <g transform="translate(440, 80)">
-    <!-- Hex 4: CodeWars -->
-    <path d="M70 0 L130.6 35 L130.6 105 L70 140 L9.4 105 L9.4 35 Z" fill="url(#hex_grad)" stroke="#00D1FF" stroke-width="2" filter="url(#neon_glow)"/>
-    <text x="70" y="65" text-anchor="middle" fill="#00D1FF" font-family="monospace" font-size="24" font-weight="bold">🚀</text>
-    <text x="70" y="95" text-anchor="middle" fill="#F0F6FC" font-family="sans-serif" font-size="14" font-weight="bold">CODEWARS</text>
-    <text x="70" y="112" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="10">TOP 30</text>
+      <!-- Entry 3 -->
+      <rect x="36" y="288" width="4" height="28" fill="#79C0FF"/>
+      <text x="60" y="310" fill="#79C0FF" font-weight="700">[03]</text>
+      <text x="140" y="310" fill="#E5C07B" font-weight="600">ICPC</text>
+      <text x="216" y="310" fill="#586069">—</text>
+      <text x="240" y="310" fill="#d1d5db" font-weight="600">Regional Participant.</text>
+      <text x="552" y="310" fill="#8b949e">Competed at the highest level of collegiate algorithmic problem-solving.</text>
+
+      <!-- Entry 4 -->
+      <rect x="36" y="368" width="4" height="28" fill="#FF7B72"/>
+      <text x="60" y="390" fill="#FF7B72" font-weight="700">[04]</text>
+      <text x="140" y="390" fill="#E5C07B" font-weight="600">HP CodeWars</text>
+      <text x="340" y="390" fill="#586069">—</text>
+      <text x="364" y="390" fill="#d1d5db" font-weight="600">National Top 30.</text>
+      <text x="612" y="390" fill="#8b949e">Finalist in the national enterprise coding performance challenge.</text>
+    </g>
   </g>
-  
-  <!-- Decorative Elements -->
-  <line x1="250" y1="150" x2="319" y2="190" stroke="#00D1FF" stroke-width="1" stroke-dasharray="4 4" opacity="0.5"/>
-  <line x1="250" y1="150" x2="319" y2="40" stroke="#00D1FF" stroke-width="1" stroke-dasharray="4 4" opacity="0.5"/>
-  <line x1="510" y1="150" x2="441" y2="190" stroke="#00D1FF" stroke-width="1" stroke-dasharray="4 4" opacity="0.5"/>
 </svg>
