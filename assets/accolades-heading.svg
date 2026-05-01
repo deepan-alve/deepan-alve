@@ -8,9 +8,6 @@
     <text x="362" y="60" fill="#d1d5db">$</text>
     <text x="394" y="60" fill="#E5C07B">cat</text>
     <text x="454" y="60" fill="#d1d5db">accolades.log</text>
-    <rect x="712" y="34" width="3" height="34" fill="#7EE787">
-      <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
-    </rect>
   </g>
 
   <g font-family="SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="22" fill="#586069">
