@@ -2,12 +2,10 @@
   <rect width="1600" height="96" rx="14" fill="#1f1f1f" stroke="#2d2d2d" stroke-width="1"/>
 
   <g font-family="SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="32" font-weight="600">
-    <text x="36" y="60" fill="#7EE787">deepan@workspace</text>
-    <text x="328" y="60" fill="#d1d5db">:</text>
-    <text x="342" y="60" fill="#79C0FF">~</text>
-    <text x="362" y="60" fill="#d1d5db">$</text>
-    <text x="394" y="60" fill="#E5C07B">cat</text>
-    <text x="454" y="60" fill="#d1d5db">accolades.log</text>
+    <text x="36" y="60" fill="#79C0FF">~</text>
+    <text x="56" y="60" fill="#d1d5db">$</text>
+    <text x="88" y="60" fill="#E5C07B">cat</text>
+    <text x="148" y="60" fill="#d1d5db">accolades.log</text>
   </g>
 
   <g font-family="SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="22" fill="#586069">
