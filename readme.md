@@ -14,9 +14,9 @@ I like owning systems end-to-end: architecture, auth, access control, deployment
   <img src="./assets/accolades-heading.svg" width="100%" alt="~$ cat accolades.log">
 </p>
 
-| | |
-|:---:|:---|
-| 🏆 | **CTF Edita — Winner.** Excellence in cybersecurity defense and offensive operations. |
-| 🛡️ | **Hack The Box — Global Top 750.** Among the elite globally in penetration testing and adversarial research. |
-| 💻 | **ICPC — Regional Participant.** Competed at the highest level of collegiate algorithmic problem-solving. |
-| 🚀 | **HP CodeWars — National Top 30.** Finalist in the national enterprise coding performance challenge. |
+<table>
+  <tr><td width="56" align="center">🏆</td><td><strong>CTF Edita — Winner.</strong> Excellence in cybersecurity defense and offensive operations.</td></tr>
+  <tr><td align="center">🛡️</td><td><strong>Hack The Box — Global Top 750.</strong> Among the elite globally in penetration testing and adversarial research.</td></tr>
+  <tr><td align="center">💻</td><td><strong>ICPC — Regional Participant.</strong> Competed at the highest level of collegiate algorithmic problem-solving.</td></tr>
+  <tr><td align="center">🚀</td><td><strong>HP CodeWars — National Top 30.</strong> Finalist in the national enterprise coding performance challenge.</td></tr>
+</table>
