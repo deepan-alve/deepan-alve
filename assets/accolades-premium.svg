@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="150" viewBox="0 0 800 150" fill="none">
+  <style>
+    .card-bg { fill: #0d1117; stroke-width: 1; rx: 12; }
+    .title { font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 10px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.1em; }
+    .value { font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 700; }
+    .icon-box { rx: 8; }
+    
+    /* Animation for subtle hover-like glow */
+    @keyframes pulse {
+      0% { opacity: 0.4; }
+      50% { opacity: 0.7; }
+      100% { opacity: 0.4; }
+    }
+    .glow-effect { animation: pulse 3s infinite ease-in-out; }
+  </style>
+
+  <defs>
+    <!-- Glow Filters -->
+    <filter id="glow-gold" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    <filter id="glow-blue" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    <filter id="glow-purple" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    <filter id="glow-green" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <linearGradient id="grad-gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#161b22" />
+      <stop offset="100%" stop-color="#211d12" />
+    </linearGradient>
+    <linearGradient id="grad-blue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#161b22" />
+      <stop offset="100%" stop-color="#121d2e" />
+    </linearGradient>
+    <linearGradient id="grad-purple" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#161b22" />
+      <stop offset="100%" stop-color="#1a122e" />
+    </linearGradient>
+    <linearGradient id="grad-green" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#161b22" />
+      <stop offset="100%" stop-color="#122e1a" />
+    </linearGradient>
+  </defs>
+
+  <!-- Card 1: CTF -->
+  <g transform="translate(10, 20)">
+    <rect width="185" height="110" class="card-bg" fill="url(#grad-gold)" stroke="#d29922" />
+    <rect x="15" y="15" width="36" height="36" class="icon-box" fill="rgba(210, 153, 34, 0.15)" />
+    <text x="33" y="41" text-anchor="middle" font-size="20">🏆</text>
+    <text x="15" y="75" class="title" fill="#d29922">CTF Edita</text>
+    <text x="15" y="98" class="value" fill="#c9d1d9">Winner</text>
+    <rect width="185" height="110" rx="12" stroke="#d29922" stroke-width="2" fill="none" opacity="0.3" class="glow-effect" filter="url(#glow-gold)"/>
+  </g>
+
+  <!-- Card 2: HTB -->
+  <g transform="translate(205, 20)">
+    <rect width="185" height="110" class="card-bg" fill="url(#grad-blue)" stroke="#388bfd" />
+    <rect x="15" y="15" width="36" height="36" class="icon-box" fill="rgba(56, 139, 253, 0.15)" />
+    <text x="33" y="41" text-anchor="middle" font-size="20">🛡️</text>
+    <text x="15" y="75" class="title" fill="#58a6ff">HTB Global</text>
+    <text x="15" y="98" class="value" fill="#c9d1d9">Top 750</text>
+    <rect width="185" height="110" rx="12" stroke="#388bfd" stroke-width="2" fill="none" opacity="0.3" class="glow-effect" filter="url(#glow-blue)"/>
+  </g>
+
+  <!-- Card 3: ICPC -->
+  <g transform="translate(400, 20)">
+    <rect width="185" height="110" class="card-bg" fill="url(#grad-purple)" stroke="#8957e5" />
+    <rect x="15" y="15" width="36" height="36" class="icon-box" fill="rgba(137, 87, 229, 0.15)" />
+    <text x="33" y="41" text-anchor="middle" font-size="20">💻</text>
+    <text x="15" y="75" class="title" fill="#a371f7">ICPC Regional</text>
+    <text x="15" y="98" class="value" fill="#c9d1d9">Participant</text>
+    <rect width="185" height="110" rx="12" stroke="#8957e5" stroke-width="2" fill="none" opacity="0.3" class="glow-effect" filter="url(#glow-purple)"/>
+  </g>
+
+  <!-- Card 4: CodeWars -->
+  <g transform="translate(595, 20)">
+    <rect width="185" height="110" class="card-bg" fill="url(#grad-green)" stroke="#3fb950" />
+    <rect x="15" y="15" width="36" height="36" class="icon-box" fill="rgba(63, 185, 80, 0.15)" />
+    <text x="33" y="41" text-anchor="middle" font-size="20">🚀</text>
+    <text x="15" y="75" class="title" fill="#3fb950">HP CodeWars</text>
+    <text x="15" y="98" class="value" fill="#c9d1d9">Top 30</text>
+    <rect width="185" height="110" rx="12" stroke="#3fb950" stroke-width="2" fill="none" opacity="0.3" class="glow-effect" filter="url(#glow-green)"/>
+  </g>
+</svg>
