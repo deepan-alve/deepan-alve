@@ -9,9 +9,5 @@
 </p>
 
 <p align="center">
-  <img src="./assets/bio.svg" width="100%" alt="whoami">
-</p>
-
-<p align="center">
-  <img src="./assets/accolades.svg" width="100%" alt="accolades">
+  <img src="./assets/profile.svg" width="100%" alt="whoami and accolades">
 </p>

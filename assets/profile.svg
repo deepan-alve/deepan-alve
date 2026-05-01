@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1600 1080" role="img" aria-label="whoami and accolades">
+  <rect width="1600" height="1080" rx="14" fill="#1f1f1f" stroke="#2d2d2d" stroke-width="1"/>
+
+  <text x="1568" y="64" font-family="SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="22" fill="#586069" text-anchor="end">— zsh</text>
+
+  <g font-family="SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace">
+
+    <!-- whoami prompt -->
+    <g font-size="32" font-weight="600">
+      <text x="36" y="68" fill="#79C0FF">~</text>
+      <text x="56" y="68" fill="#d1d5db">$</text>
+      <text x="88" y="68" fill="#E5C07B">whoami</text>
+    </g>
+
+    <!-- bio output -->
+    <g font-size="26" fill="#d1d5db">
+      <text x="36" y="148">Engineer building production software across <tspan fill="#7EE787" font-weight="600">web</tspan>, <tspan fill="#7EE787" font-weight="600">mobile</tspan>, <tspan fill="#7EE787" font-weight="600">backend infrastructure</tspan>, and</text>
+      <text x="36" y="188"><tspan fill="#7EE787" font-weight="600">applied AI</tspan>. Current focus: <tspan fill="#E5C07B">agent development</tspan>, <tspan fill="#E5C07B">orchestration workflows</tspan>, and</text>
+      <text x="36" y="228"><tspan fill="#E5C07B">federated learning defense research</tspan> — with a strong bias toward systems that</text>
+      <text x="36" y="268">stay useful long after the prototype stage.</text>
+
+      <text x="36" y="348">I like owning systems end-to-end: architecture, auth, access control, deployment,</text>
+      <text x="36" y="388">reliability, and the engineering decisions that make software hold up under real</text>
+      <text x="36" y="428">constraints.</text>
+    </g>
+
+    <!-- divider -->
+    <line x1="36" y1="488" x2="1564" y2="488" stroke="#2d2d2d" stroke-width="1"/>
+
+    <!-- cat accolades.log prompt -->
+    <g font-size="32" font-weight="600">
+      <text x="36" y="548" fill="#79C0FF">~</text>
+      <text x="56" y="548" fill="#d1d5db">$</text>
+      <text x="88" y="548" fill="#E5C07B">cat</text>
+      <text x="148" y="548" fill="#d1d5db">accolades.log</text>
+    </g>
+
+    <!-- Entry 1 -->
+    <rect x="36" y="612" width="4" height="80" fill="#FFB454"/>
+    <g font-size="26">
+      <text x="60" y="640" fill="#FFB454" font-weight="700">[01]</text>
+      <text x="160" y="640" fill="#E5C07B" font-weight="600">CTF Edita</text>
+      <text x="510" y="640" fill="#586069">—</text>
+      <text x="540" y="640" fill="#d1d5db" font-weight="600">Winner.</text>
+      <text x="160" y="680" fill="#8b949e">Excellence in cybersecurity defense and offensive operations.</text>
+    </g>
+
+    <!-- Entry 2 -->
+    <rect x="36" y="724" width="4" height="80" fill="#9EDF7F"/>
+    <g font-size="26">
+      <text x="60" y="752" fill="#9EDF7F" font-weight="700">[02]</text>
+      <text x="160" y="752" fill="#E5C07B" font-weight="600">Hack The Box</text>
+      <text x="510" y="752" fill="#586069">—</text>
+      <text x="540" y="752" fill="#d1d5db" font-weight="600">Global Top 750.</text>
+      <text x="160" y="792" fill="#8b949e">Among the elite globally in penetration testing and adversarial research.</text>
+    </g>
+
+    <!-- Entry 3 -->
+    <rect x="36" y="836" width="4" height="80" fill="#79C0FF"/>
+    <g font-size="26">
+      <text x="60" y="864" fill="#79C0FF" font-weight="700">[03]</text>
+      <text x="160" y="864" fill="#E5C07B" font-weight="600">ICPC</text>
+      <text x="510" y="864" fill="#586069">—</text>
+      <text x="540" y="864" fill="#d1d5db" font-weight="600">Regional Participant.</text>
+      <text x="160" y="904" fill="#8b949e">Competed at the highest level of collegiate algorithmic problem-solving.</text>
+    </g>
+
+    <!-- Entry 4 -->
+    <rect x="36" y="948" width="4" height="80" fill="#FF7B72"/>
+    <g font-size="26">
+      <text x="60" y="976" fill="#FF7B72" font-weight="700">[04]</text>
+      <text x="160" y="976" fill="#E5C07B" font-weight="600">HP CodeWars</text>
+      <text x="510" y="976" fill="#586069">—</text>
+      <text x="540" y="976" fill="#d1d5db" font-weight="600">National Top 30.</text>
+      <text x="160" y="1016" fill="#8b949e">Finalist in the national enterprise coding performance challenge.</text>
+    </g>
+  </g>
+</svg>
