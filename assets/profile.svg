@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1600 900" role="img" aria-label="whoami and accolades">
-  <rect width="1600" height="900" rx="14" fill="#1f1f1f" stroke="#2d2d2d" stroke-width="1"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1600 860" role="img" aria-label="whoami and accolades">
+  <rect width="1600" height="860" rx="14" fill="#1f1f1f" stroke="#2d2d2d" stroke-width="1"/>
 
   <text x="1568" y="64" font-family="SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="22" fill="#586069" text-anchor="end">— zsh</text>
 
@@ -13,62 +13,61 @@
     </g>
 
     <!-- philosophical bio -->
-    <g font-size="26" fill="#d1d5db">
-      <text x="36" y="148">I'd rather be <tspan fill="#7EE787" font-weight="600">curious</tspan> than right. Most of what I believe today I'll probably</text>
-      <text x="36" y="188">revise tomorrow, and I think that's the point. The version of me I keep trying</text>
-      <text x="36" y="228">to build isn't sure of much, just <tspan fill="#79C0FF" font-weight="600">patient</tspan> enough to keep looking, and <tspan fill="#E5C07B" font-weight="600">stubborn</tspan></text>
-      <text x="36" y="268">enough to not look away.</text>
+    <g font-size="28" fill="#d1d5db">
+      <text x="36" y="148">I'd rather be <tspan fill="#7EE787" font-weight="600">curious</tspan> than right. Most of what I believe today I'll probably revise</text>
+      <text x="36" y="192">tomorrow, and I think that's the point. The version of me I keep trying to build isn't</text>
+      <text x="36" y="236">sure of much, just <tspan fill="#79C0FF" font-weight="600">patient</tspan> enough to keep looking, and <tspan fill="#E5C07B" font-weight="600">stubborn</tspan> enough to not look away.</text>
     </g>
 
     <!-- divider -->
-    <line x1="36" y1="328" x2="1564" y2="328" stroke="#2d2d2d" stroke-width="1"/>
+    <line x1="36" y1="296" x2="1564" y2="296" stroke="#2d2d2d" stroke-width="1"/>
 
     <!-- cat accolades.log prompt -->
     <g font-size="32" font-weight="600">
-      <text x="36" y="388" fill="#79C0FF">~</text>
-      <text x="56" y="388" fill="#d1d5db">$</text>
-      <text x="88" y="388" fill="#E5C07B">cat</text>
-      <text x="148" y="388" fill="#d1d5db">accolades.log</text>
+      <text x="36" y="356" fill="#79C0FF">~</text>
+      <text x="56" y="356" fill="#d1d5db">$</text>
+      <text x="88" y="356" fill="#E5C07B">cat</text>
+      <text x="148" y="356" fill="#d1d5db">accolades.log</text>
     </g>
 
     <!-- Entry 1 -->
-    <rect x="36" y="452" width="4" height="80" fill="#FFB454"/>
+    <rect x="36" y="420" width="4" height="80" fill="#FFB454"/>
     <g font-size="26">
-      <text x="60" y="480" fill="#FFB454" font-weight="700">[01]</text>
-      <text x="160" y="480" fill="#E5C07B" font-weight="600">Pragyaan CTF</text>
-      <text x="540" y="480" fill="#586069">—</text>
-      <text x="570" y="480" fill="#d1d5db" font-weight="600">2nd Nationally.</text>
-      <text x="160" y="520" fill="#8b949e">Runner-up at India's national cybersecurity CTF challenge.</text>
+      <text x="60" y="448" fill="#FFB454" font-weight="700">[01]</text>
+      <text x="160" y="448" fill="#E5C07B" font-weight="600">Pragyaan CTF</text>
+      <text x="540" y="448" fill="#586069">—</text>
+      <text x="570" y="448" fill="#d1d5db" font-weight="600">2nd Nationally.</text>
+      <text x="160" y="488" fill="#8b949e">Runner-up at India's national cybersecurity CTF challenge.</text>
     </g>
 
     <!-- Entry 2 -->
-    <rect x="36" y="564" width="4" height="80" fill="#9EDF7F"/>
+    <rect x="36" y="532" width="4" height="80" fill="#9EDF7F"/>
     <g font-size="26">
-      <text x="60" y="592" fill="#9EDF7F" font-weight="700">[02]</text>
-      <text x="160" y="592" fill="#E5C07B" font-weight="600">Codevincii CTF</text>
-      <text x="540" y="592" fill="#586069">—</text>
-      <text x="570" y="592" fill="#d1d5db" font-weight="600">6th Internationally.</text>
-      <text x="160" y="632" fill="#8b949e">Top 10 finish at an international cybersecurity capture-the-flag competition.</text>
+      <text x="60" y="560" fill="#9EDF7F" font-weight="700">[02]</text>
+      <text x="160" y="560" fill="#E5C07B" font-weight="600">Codevincii CTF</text>
+      <text x="540" y="560" fill="#586069">—</text>
+      <text x="570" y="560" fill="#d1d5db" font-weight="600">6th Internationally.</text>
+      <text x="160" y="600" fill="#8b949e">Top 10 finish at an international cybersecurity capture-the-flag competition.</text>
     </g>
 
     <!-- Entry 3 -->
-    <rect x="36" y="676" width="4" height="80" fill="#79C0FF"/>
+    <rect x="36" y="644" width="4" height="80" fill="#79C0FF"/>
     <g font-size="26">
-      <text x="60" y="704" fill="#79C0FF" font-weight="700">[03]</text>
-      <text x="160" y="704" fill="#E5C07B" font-weight="600">SNUC Hacks</text>
-      <text x="540" y="704" fill="#586069">—</text>
-      <text x="570" y="704" fill="#d1d5db" font-weight="600">Runner-up.</text>
-      <text x="160" y="744" fill="#8b949e">Second place at the Shiv Nadar University inter-college hackathon.</text>
+      <text x="60" y="672" fill="#79C0FF" font-weight="700">[03]</text>
+      <text x="160" y="672" fill="#E5C07B" font-weight="600">SNUC Hacks</text>
+      <text x="540" y="672" fill="#586069">—</text>
+      <text x="570" y="672" fill="#d1d5db" font-weight="600">Runner-up.</text>
+      <text x="160" y="712" fill="#8b949e">Second place at the Shiv Nadar University inter-college hackathon.</text>
     </g>
 
     <!-- Entry 4 -->
-    <rect x="36" y="788" width="4" height="80" fill="#FF7B72"/>
+    <rect x="36" y="756" width="4" height="80" fill="#FF7B72"/>
     <g font-size="26">
-      <text x="60" y="816" fill="#FF7B72" font-weight="700">[04]</text>
-      <text x="160" y="816" fill="#E5C07B" font-weight="600">HP CodeWars</text>
-      <text x="540" y="816" fill="#586069">—</text>
-      <text x="570" y="816" fill="#d1d5db" font-weight="600">27th All-India.</text>
-      <text x="160" y="856" fill="#8b949e">Ranked 27th nationally in the All-India enterprise coding challenge.</text>
+      <text x="60" y="784" fill="#FF7B72" font-weight="700">[04]</text>
+      <text x="160" y="784" fill="#E5C07B" font-weight="600">HP CodeWars</text>
+      <text x="540" y="784" fill="#586069">—</text>
+      <text x="570" y="784" fill="#d1d5db" font-weight="600">27th All-India.</text>
+      <text x="160" y="824" fill="#8b949e">Ranked 27th nationally in the All-India enterprise coding challenge.</text>
     </g>
   </g>
 </svg>
