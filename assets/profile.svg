@@ -49,20 +49,20 @@
     <rect x="36" y="724" width="4" height="80" fill="#9EDF7F"/>
     <g font-size="26">
       <text x="60" y="752" fill="#9EDF7F" font-weight="700">[02]</text>
-      <text x="160" y="752" fill="#E5C07B" font-weight="600">Hack The Box</text>
+      <text x="160" y="752" fill="#E5C07B" font-weight="600">Codevincii CTF</text>
       <text x="540" y="752" fill="#586069">—</text>
-      <text x="570" y="752" fill="#d1d5db" font-weight="600">Global Top 750.</text>
-      <text x="160" y="792" fill="#8b949e">Among the elite globally in penetration testing and adversarial research.</text>
+      <text x="570" y="752" fill="#d1d5db" font-weight="600">6th Internationally.</text>
+      <text x="160" y="792" fill="#8b949e">Top 10 finish at an international cybersecurity capture-the-flag competition.</text>
     </g>
 
     <!-- Entry 3 -->
     <rect x="36" y="836" width="4" height="80" fill="#79C0FF"/>
     <g font-size="26">
       <text x="60" y="864" fill="#79C0FF" font-weight="700">[03]</text>
-      <text x="160" y="864" fill="#E5C07B" font-weight="600">Codevincii CTF</text>
+      <text x="160" y="864" fill="#E5C07B" font-weight="600">SNUC Hacks</text>
       <text x="540" y="864" fill="#586069">—</text>
-      <text x="570" y="864" fill="#d1d5db" font-weight="600">6th Internationally.</text>
-      <text x="160" y="904" fill="#8b949e">Top 10 finish at an international cybersecurity capture-the-flag competition.</text>
+      <text x="570" y="864" fill="#d1d5db" font-weight="600">Runner-up.</text>
+      <text x="160" y="904" fill="#8b949e">Second place at the Shiv Nadar University inter-college hackathon.</text>
     </g>
 
     <!-- Entry 4 -->
