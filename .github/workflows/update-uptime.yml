@@ -1,0 +1,42 @@
+name: Update profile uptime
+
+on:
+  schedule:
+    # 5 minutes before every hour, UTC
+    - cron: '55 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-uptime
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install python-dateutil
+
+      - name: Update uptime in terminal-hero.svg
+        run: python scripts/update_uptime.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [[ -n "$(git status --porcelain assets/terminal-hero.svg)" ]]; then
+            git add assets/terminal-hero.svg
+            git commit -m "chore: refresh terminal-hero uptime"
+            git push
+          else
+            echo "no changes to commit"
+          fi
