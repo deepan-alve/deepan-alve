@@ -10,7 +10,7 @@ from zoneinfo import ZoneInfo
 from dateutil.relativedelta import relativedelta
 
 SVG_PATH = "assets/terminal-hero.svg"
-BIRTH = datetime(2006, 8, 3, 7, 30, 0, tzinfo=ZoneInfo("Asia/Kolkata"))
+BIRTH = datetime(2006, 8, 3, 5, 53, 0, tzinfo=ZoneInfo("Asia/Kolkata"))
 UPTIME_PATTERN = re.compile(r"\d+ years?, \d+ months?, \d+ days?, \d+ hours?")
 B64_PATTERN = re.compile(r"data:image/svg\+xml;base64,([A-Za-z0-9+/=]+)")
 
