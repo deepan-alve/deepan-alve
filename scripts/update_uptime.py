@@ -18,7 +18,11 @@ B64_PATTERN = re.compile(r"data:image/svg\+xml;base64,([A-Za-z0-9+/=]+)")
 def compute_uptime() -> str:
     now = datetime.now(ZoneInfo("Asia/Kolkata"))
     d = relativedelta(now, BIRTH)
-    return f"{d.years} years, {d.months} months, {d.days} days, {d.hours} hours"
+    def unit(n: int, word: str) -> str:
+        return f"{n} {word}" if n == 1 else f"{n} {word}s"
+
+    return ", ".join(unit(n, w) for n, w in
+                     ((d.years, "year"), (d.months, "month"), (d.days, "day"), (d.hours, "hour")))
 
 
 def main() -> int:
