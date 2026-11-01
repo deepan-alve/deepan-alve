@@ -1,33 +1,23 @@
 <p align="center">
-  <a href="#"><img src="./assets/terminal-hero.svg" width="100%" alt="Deepan terminal hero"></a>
+  <a href="https://www.deepanalve.dev"><img src="./assets/build-and-break.png" width="100%" alt="Build and Break. Deepan Alve, backend engineer. deepanalve.dev"></a>
 </p>
 
 <p align="center">
-  <a href="https://resume.deepanalve.dev">
-    <img src="./assets/resume.svg" width="100%" alt="Download resume">
-  </a>
+  <img src="./assets/terminal-hero.svg" width="100%" alt="Terminal profile. Deepan Alve, software engineer, B.Tech CSE (Cybersecurity) at Shiv Nadar University Chennai, class of 2028. Backend systems, AI agents and security. TypeScript, Go, Java, Python, Node.js, PostgreSQL, Redis, BullMQ, Cloudflare Workers, AWS, Docker and Kubernetes.">
 </p>
 
 <p align="center">
-  <a href="#"><img src="./assets/profile.svg" width="100%" alt="whoami and accolades"></a>
+  <a href="https://resume.deepanalve.dev"><img src="./assets/resume.svg" width="100%" alt="Download resume, one page PDF"></a>
 </p>
 
-## Deepan Alve
+<p align="center">
+  <img src="./assets/profile.svg" width="100%" alt="Accolades. 2nd nationally at Pragyaan CTF. 6th internationally at Codevincii CTF. Runner-up at SNUC Hacks. 27th All-India at HP CodeWars.">
+</p>
 
-CS student in Chennai. I build things that ship, and break things that shouldn't.
-
-[Portfolio](https://www.deepanalve.dev) · [Blog](https://blog.deepanalve.dev) · [LinkedIn](https://www.linkedin.com/in/deepanalve/) · [Resume](https://resume.deepanalve.dev) · contact@deepanalve.dev
-
-### Worth a look
-
-- **[Win-my-Argument](https://github.com/deepan-alve/Win-my-Argument):** AI debate assistant built on Perplexica
-- **[reelm-player](https://github.com/deepan-alve/reelm-player):** embeddable web component for adaptive video
-- **[womier-l65](https://github.com/deepan-alve/womier-l65):** Womier L65 keyboard support on Linux
-- **[screenshot-pro](https://github.com/deepan-alve/screenshot-pro):** drag-to-capture screenshots for GNOME Shell
-- **[Stacked](https://github.com/deepan-alve/Stacked):** self-hosted tracker for movies, shows, anime and books
-
-### Wins
-
-- **2nd nationally:** Pragyaan CTF
-- **6th internationally:** Codevincii CTF
-- **Runner-up:** SNUC Hacks
+<p align="center">
+  <a href="https://www.deepanalve.dev">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://blog.deepanalve.dev">Blog</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/deepan-alve/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://resume.deepanalve.dev">Resume</a> &nbsp;·&nbsp;
+  <a href="mailto:contact@deepanalve.dev">contact@deepanalve.dev</a>
+</p>
