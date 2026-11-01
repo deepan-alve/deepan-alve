@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="./assets/terminal-hero.svg" width="100%" alt="Terminal profile. Deepan Alve, software engineer, B.Tech CSE (Cybersecurity) at Shiv Nadar University Chennai, class of 2028. Backend systems, AI agents and security. TypeScript, Go, Java, Python, Node.js, PostgreSQL, Redis, BullMQ, Cloudflare Workers, AWS, Docker and Kubernetes.">
+  <img src="./assets/terminal-hero.svg?v=2" width="100%" alt="Terminal profile. Deepan Alve, software engineer, B.Tech CSE (Cybersecurity) at Shiv Nadar University Chennai, class of 2028. Backend systems, AI agents and security. TypeScript, Go, Java, Python, Node.js, PostgreSQL, Redis, BullMQ, Cloudflare Workers, AWS, Docker and Kubernetes.">
 </p>
 
 <p align="center">
-  <a href="https://resume.deepanalve.dev"><img src="./assets/resume.svg" width="100%" alt="Download resume, one page PDF"></a>
+  <a href="https://resume.deepanalve.dev"><img src="./assets/resume.svg?v=2" width="100%" alt="Download resume, one page PDF"></a>
 </p>
 
 <p align="center">
